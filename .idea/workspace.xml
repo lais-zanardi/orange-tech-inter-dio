@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c99c09e-0e5c-4f09-875e-a2f90e9c7783" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosOrangeTechInterDIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/camarote/blue/cold/ice/cubes/CamaroteBlueColdIceCubes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/camarote/blue/cold/ice/cubes/Desafio Camarote do Blue Cold Ice Cubes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dc/monalds/DcMonalds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dc/monalds/Desafio Dc Monalds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/download/pacotes/Desafio Download de Pacotes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/download/pacotes/DownloadPacotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imoveis/disponiveis/Desafio Imóveis Disponíveis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imoveis/disponiveis/ImoveisDisponiveis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/industria/multa/Desafio Indústria da Multa.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/industria/multa/IndustriaMulta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura/gertrudes/Desafio Leitura da Gertrudes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura/gertrudes/LeituraGertrudes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lojinha/doces/Desafio Lojinha de Doces.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lojinha/doces/LojinhaDoces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mesada/sobrinho/Desafio Mesada do Sobrinho.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mesada/sobrinho/MesadaSobrinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pontos/carteira/Desafio Pontos na Carteira.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pontos/carteira/PontosCarteira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salvando/musicas/Desafio Salvando Músicas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salvando/musicas/SalvandoMusicas.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KHhG190gEQLwRU93NH5MBMzVd0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c99c09e-0e5c-4f09-875e-a2f90e9c7783" name="Changes" comment="" />
+      <created>1673637329496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673637329496</updated>
+      <workItem from="1673637342245" duration="5972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
